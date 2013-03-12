@@ -7,7 +7,7 @@ public class Controller : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-    //Bajer, napisze sobie bo cos moge :D
+
     }
 
     // Update is called once per frame
